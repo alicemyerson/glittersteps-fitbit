@@ -6,4 +6,5 @@ It's my first attempt, done in a few hours while suffering from coronavirus.  Ty
 
 
 #### Fitbit Versa
-![Versa](https://raw.githubusercontent.com/alicemyerson/glittersteps-fitbit/main/resources/screencap.PNG)
+![Versa](https://raw.githubusercontent.com/alicemyerson/glittersteps-fitbit/main/screenshots/GlitterStepsScreenshot1.png)
+![Versa](https://raw.githubusercontent.com/alicemyerson/glittersteps-fitbit/main/screenshots/GlitterStepsScreenshot2.png)

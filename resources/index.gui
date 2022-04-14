@@ -1,6 +1,6 @@
 <svg class="background">
   <svg id="clock">
-    <image id="glitter" x = "0" y = "60" href="glitter.png" height="240" width="300"/>
+    <image id="glitter" x = "0" y = "60" href="glitter300.png" height="240" width="300"/>
   </svg>
 
   <text id="stepCount" />
