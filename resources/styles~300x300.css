@@ -18,8 +18,8 @@ text {
 
 #hrNumber {
   x: 50%-15;
-  y: 50%;
-  font-size:100;
+  y: 60%;
+  font-size:120;
   font-family: Colfax-Thin;
   text-length: 2;
   text-anchor: end;
@@ -27,8 +27,8 @@ text {
 
 #minNumber {
   x: 50%-15;
-  y: 50%;
-  font-size:100;
+  y: 60%;
+  font-size:120;
   font-family: Colfax-Medium;
   text-length: 2;
   text-anchor: start;
@@ -36,14 +36,14 @@ text {
 
 #dateString {
   x: 50%;
-  y: 50%-100;
-  font-size: 16;
+  y: 60%-100;
+  font-size: 22;
   font-family: Seville-Bold;
 }
 
 #debug {
   x: 50%;
-  y: 50%+100;
+  y: 60%+100;
   font-size: 16;
   font-family: Seville-Bold;
 }
@@ -51,7 +51,7 @@ text {
 #stepCount {
   x: 4%;
   y: 7%;
-  font-size: 14;
+  font-size: 20;
   font-family: Seville-Book;
   text-anchor: start;
 }
@@ -59,7 +59,7 @@ text {
 #batGauge {
   x: 95%;
   y: 7%;
-  font-size: 14;
+  font-size: 20;
   font-family: Seville-Book;
   text-anchor: end;
 }
