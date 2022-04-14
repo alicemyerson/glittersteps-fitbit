@@ -1,0 +1,65 @@
+
+.background {
+  viewport-fill: #000000;
+}
+
+#clock {
+  width: 250;
+  height: 250;
+  x: 50%-125;
+  y: 50%-125;
+}
+
+text {
+  fill: white;
+  text-length: 250;
+  text-anchor: middle;
+}
+
+#hrNumber {
+  x: 50%;
+  y: 50%+5;
+  font-size: 80;
+  font-family: Colfax-Thin;
+  text-length: 2;
+  text-anchor: end;
+}
+
+#minNumber {
+  x: 50%;
+  y: 50%+5;
+  font-size: 80;
+  font-family: Colfax-Medium;
+  text-length: 2;
+  text-anchor: start;
+}
+
+#dateString {
+  x: 50%;
+  y: 50%+35;
+  font-size: 16;
+  font-family: Seville-Bold;
+}
+
+#debug {
+  x: 50%;
+  y: 50%+100;
+  font-size: 16;
+  font-family: Seville-Bold;
+}
+
+#stepCount {
+  x: 4%;
+  y: 7%;
+  font-size: 14;
+  font-family: Seville-Book;
+  text-anchor: start;
+}
+
+#batGauge {
+  x: 95%;
+  y: 7%;
+  font-size: 14;
+  font-family: Seville-Book;
+  text-anchor: end;
+}

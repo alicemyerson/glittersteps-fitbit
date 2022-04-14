@@ -1,0 +1,11 @@
+<svg class="background">
+  <svg id="clock">
+    <image id="glitter" x = "0" y = "60" href="glitter.png" height="240" width="300"/>
+  </svg>
+
+  <text id="stepCount" />
+  <text id="batGauge" />
+  <text id="hrNumber" />
+  <text id="minNumber" />
+  <text id="dateString" />
+</svg>
