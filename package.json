@@ -1,9 +1,9 @@
 {
   "devDependencies": {
-    "@fitbit/sdk": "~4.3.0"
+    "@fitbit/sdk": "~4.3.0",
+    "@fitbit/sdk-cli": "^1.7.3"
   },
   "fitbit": {
-    "appUUID": "7a7e5e9c-42a7-41db-9251-cb64761998fa",
     "appType": "clockface",
     "appDisplayName": "GlitterSteps",
     "iconFile": "resources/icon.png",
@@ -19,6 +19,10 @@
         "name": "GlitterSteps"
       }
     },
-    "defaultLanguage": "en-US"
+    "defaultLanguage": "en-US",
+    "appUUID": "3fe7c8c2-d957-4f9b-acdc-a35a510cbf56"
+  },
+  "scripts": {
+    "build": "fitbit-build"
   }
 }
